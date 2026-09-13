@@ -1,5 +1,5 @@
 # AWS Containers Retail Sample - Checkout Service
-# for testing adding this
+# for testing adding this for actions
 
 | Language | Persistence |
 | -------- | ----------- |
