@@ -11,7 +11,7 @@ env:
 
 jobs:
   detect-changes:
-    name: Detect Changed Services
+    name: Detect Changed Services from all Microservices
     runs-on: ubuntu-latest
     outputs:
       changed-services: ${{ steps.changes.outputs.changed-services }}
