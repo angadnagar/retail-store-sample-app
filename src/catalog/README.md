@@ -1,6 +1,5 @@
 # AWS Containers Retail Sample - Catalog Service
-
-<!-- Test commit -->
+# for testing adding this
 
 | Language | Persistence |
 | -------- | ----------- |
